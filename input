@@ -1,0 +1,30 @@
+import os 
+
+
+print("""
+
+          ______    ___       ____  ___ ___   ___  
+        |      T  /  _]     /    T|   T   T /   \ 
+        |      | /  [_     Y  o  || _   _ |Y     Y
+        l_j  l_jY    _]    |     ||  \_/  ||  O  |
+          |  |  |   [_     |  _  ||   |   ||     |
+          |  |  |     T    |  |  ||   |   |l     !
+          l__j  l_____j    l__j__jl___j___j \___/ 
+                                                  
+
+                __  __ __   ___   _       ___  
+               /  ]|  T  T /   \ | T     /   \ 
+              /  / |  l  |Y     Y| |    Y     Y
+             /  /  |  _  ||  O  || l___ |  O  |
+            /   \_ |  |  ||     ||     T|     |
+            \     ||  |  |l     !|     |l     !
+             \____jl__j__j \___/ l_____j \___/ 
+                                               
+
+""")                 
+
+malo = input("que te pareció mi script?")
+
+bueno = input("que te pareció mi script?")
+
+mas o menos = input("que te pareció mi script?")
